@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/ThanhKun95">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TK95">
+	<img src="https://taytou.com/wp-content/uploads/2022/05/anh-anime-chibi-ngau-lanh-lung-1-600x600-1.jpg" width = "200" alt="TK95">
 	</a>
 </p>
 
